@@ -92,7 +92,7 @@
     width: max-content;
     height: max-content;
     margin-left: 1vw;
-    margin-top: 1.3vh;
+    margin-top: 1.4vh;
 }
 
 .options .option > button {
@@ -113,4 +113,5 @@
 
 .option > button:hover {
     opacity: 60%;
+
 }
