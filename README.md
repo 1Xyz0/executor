@@ -1,6 +1,6 @@
 # executor
 ITS NOT CHEAT | this is a script that allows you to run code during script work
-command: /executor
+## command: /executor
 ### esx required!
 ### everything in code is easy to editable
 
